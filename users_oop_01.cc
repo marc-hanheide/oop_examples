@@ -109,6 +109,5 @@ int main() {
         all_users[i].authenticate();
     }
 
-
   return 0;
 }
